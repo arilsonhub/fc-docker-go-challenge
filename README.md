@@ -1,6 +1,6 @@
-# FC-DOCKER-GO-CHALLENGE
+# fc-docker-go-challenge
 
-Este repositório trata-se da entrega do desafio com a linguagem GO do curso de Docker da escola Full Cycle.
+Este repositório contém a entrega do desafio com a linguagem Go do curso de Docker da escola Full Cycle.
 
 ## 🚀 Tecnologias Utilizadas
 
